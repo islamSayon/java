@@ -6,7 +6,7 @@
 ---
 
 ## 📁 Folder Structure
-[java program 1](User_Input_Example.java)
+[java program 1](./User_Input_Example.java)
 [java program 1](./Number_Type.java)
 [java program 1](./Day_Name.java)
 [java program 1](./Odd_Even.java)
